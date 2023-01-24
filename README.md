@@ -1,0 +1,2 @@
+# Arduino_Toprak_Sensoru_Motor_Sulama_Proje_Kodlari
+ Arduino_Toprak_Sensoru_Motor_Sulama_Proje_Kodlari
